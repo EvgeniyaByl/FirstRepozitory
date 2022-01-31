@@ -1,6 +1,6 @@
 //ts-check;
 "use strict";
-let login = prompt('Login111?', '');
+let login = prompt('Login?', '');
 
 if (login == ('' || null)) {
     alert('Отмена');
